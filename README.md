@@ -1,2 +1,2 @@
-# first-repo-13-2023
-my first repo in IR-13 group 2023
+# first-repo
+my first repo in the IR-13 group in 2023
